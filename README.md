@@ -5,7 +5,7 @@ Polling app just for learning purpose
 1. First create folder<FolderName> and create Virtual environment using (venv -> which is standard inbuil in python3) 
 
 2. git clone this project in <FolderName>
-'''bash
+'''python
 git clone <url>
 '''
 
